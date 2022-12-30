@@ -4,7 +4,8 @@
 > 프로젝트 기간: 2022.12.26 ~ 2022.12.29
 > 
 > 팀원: 👩🏻‍💻[sehong](https://github.com/sehoong0429), 👨🏻‍💻[kaki](https://github.com/kak1x) | 리뷰어: 👨🏻‍💻[Ayaan](https://github.com/oneStar92)
-> 
+>
+> [팀회고🍏](https://github.com/kak1x/ios-rock-paper-scissors/blob/main/팀회고.md)
 ## 목차
 1. [프로젝트 소개](#프로젝트-소개)
 2. [타임라인](#타임라인)
